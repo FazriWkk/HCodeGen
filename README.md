@@ -5,5 +5,5 @@ Generates a random 6 digit numbers (that you can try to find Hen Codes)
 Yes, You
 
 # Credit(s)
-Code (mostly) helped by : Google (tone-deaf) Bard
+Code (mostly) helped by : Google (tone-deaf) Bard,
 Executed by : Me (lmfao)
