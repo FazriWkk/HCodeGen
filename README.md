@@ -1,5 +1,5 @@
 # HCodeGen
-Generates a random 6 digit numbers (that you can try to find Hen Codes)
+Generates a random 6 digit numbers (that you can try to find Hentie Codes)
 
 # For Degenerates who are Desperate
 Yes, You
