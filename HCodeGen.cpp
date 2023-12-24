@@ -14,7 +14,7 @@ int main() {
   // Generate and print 10 random numbers
   for (int i = 0; i < 10; i++) {
     int randomNumber = dist(gen);
-    cout << randomNumber << endl << "";
+    cout << "nhentai.net/g/" << randomNumber << endl;
   }
 
   cout << endl;
