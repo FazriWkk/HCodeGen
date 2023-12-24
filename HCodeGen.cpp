@@ -9,7 +9,7 @@ int main() {
   mt19937 gen(rd());
 
   // Uniform distribution for 6-digit numbers
-  uniform_int_distribution<int> dist(100000, 999999);
+  uniform_int_distribution<int> dist(100000, 599999);
 
   // Generate and print 10 random numbers
   for (int i = 0; i < 10; i++) {
