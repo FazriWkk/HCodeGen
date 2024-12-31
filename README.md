@@ -4,7 +4,7 @@ Generates a random 6 digit numbers (that you can try to find Hentie Codes)
 # For Degenerates who are Desperate
 Yes, You
 
-# How To :
+# How To Compile:
 ## A. Windows
 Run in VSCode and see the codes being Generated
 
