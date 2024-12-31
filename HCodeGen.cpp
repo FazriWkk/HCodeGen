@@ -18,7 +18,11 @@ int main() {
   }
 
   cout << endl;
+  
+// Linux doesn't have pause
+#ifndef __linux__
   system("pause");
+#endif
 
   return 0;
 }
